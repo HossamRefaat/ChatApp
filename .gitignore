@@ -1,0 +1,38 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio and VS Code workspace files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results and coverage
+[Tt]est[Rr]esult*/
+*.trx
+coverage/
+
+# React / Node.js dependencies and build output
+node_modules/
+build/
+dist/
+dist-ssr/
+.next/
+.vite/
+
+# Local environment settings (keep example templates in Git)
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
